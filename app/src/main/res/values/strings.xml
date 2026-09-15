@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FilippinoTV</string>
+    <string name="channel_list">Channel List</string>
+    <string name="loading">Loading channels...</string>
+    <string name="error_loading">Error loading channels</string>
+    <string name="stream_error">Stream Error</string>
+</resources>
